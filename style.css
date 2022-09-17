@@ -20,7 +20,7 @@
 }
 
 body {
- font-family:'Times New Roman', Times, serif;
+ font-family:Arial, Helvetica, sans-serif;
   min-height: 100vh;
   min-width: 100vw;
 }
@@ -41,7 +41,7 @@ body {
 #pdetails {
   display: flex;
   justify-content: space-around;
-  background-color: rgb(71, 71, 141);
+  background-color:rgb(131 97 71);
   padding: 8px;
 }
 #pdetails div img {
@@ -68,6 +68,9 @@ body {
 
 #education {
   padding: 18px 40px;
+}
+#education p{
+  font-size: 14px;
 }
 .tym{
   width:27vw; 
